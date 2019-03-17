@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:id="@+id/text1"
+            android:text="C Books"
+            android:textColor="#2c0fed"
+            android:textSize="30dp"
+            android:layout_marginLeft="20dp"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:id="@+id/text2"
+            android:text="Java Books"
+            android:textColor="#f53535"
+            android:textSize="30dp"
+            android:layout_marginLeft="20dp"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:id="@+id/text3"
+            android:text="Html Books"
+            android:textColor="#c20cea"
+            android:textSize="30dp"
+            android:layout_marginLeft="20dp"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:id="@+id/text4"
+            android:text="Novels"
+            android:textColor="#f2e30d"
+            android:textSize="30dp"
+            android:layout_marginLeft="20dp"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:id="@+id/text5"
+            android:text="Cosmetic Books"
+            android:textColor="#19df0e"
+            android:textSize="30dp"
+            android:layout_marginLeft="20dp"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:id="@+id/text6"
+            android:text="Android Books"
+            android:textColor="#0edfa0"
+            android:textSize="30dp"
+            android:layout_marginLeft="20dp"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:id="@+id/text7"
+            android:text="PythonBooks"
+            android:textColor="#080707"
+            android:textSize="30dp"
+            android:layout_marginLeft="20dp"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:id="@+id/text8"
+            android:text="JavaScript Books"
+            android:textColor="#f48b36"
+            android:textSize="30dp"
+            android:layout_marginLeft="20dp"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:id="@+id/text9"
+            android:text="Story Books"
+            android:textColor="#a4a1a1"
+            android:textSize="30dp"
+            android:layout_marginLeft="20dp"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:id="@+id/text10"
+            android:text="Health Books"
+            android:textColor="#44555e"
+            android:textSize="30dp"
+            android:layout_marginLeft="20dp"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:id="@+id/text11"
+            android:text="Zoology Books"
+            android:textColor="#62b5e1"
+            android:textSize="30dp"
+            android:layout_marginLeft="20dp"
+            android:textStyle="bold"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:id="@+id/text12"
+            android:text="Laughing Books"
+            android:textColor="#c777b6"
+            android:textSize="30dp"
+            android:layout_marginLeft="20dp"
+            android:textStyle="bold"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:id="@+id/text13"
+            android:text="Vegetable Books"
+            android:textColor="#a8a889"
+            android:textSize="30dp"
+            android:layout_marginLeft="20dp"
+            android:textStyle="bold"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:id="@+id/text14"
+            android:text="Fruit Books"
+            android:textColor="#2d5c42"
+            android:textSize="30dp"
+            android:layout_marginLeft="20dp"
+            android:textStyle="bold"
+
+            />
+
+    </LinearLayout>
+</ScrollView>
